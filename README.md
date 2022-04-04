@@ -1,11 +1,11 @@
 # PRJ_KarlShop
 Web application for selling clothing
-# Back-end 
+## Back-end 
 Java
 Servlet
-# Database
+## Database
 SQL server
-# Front end
+## Front end
 HTML
 CSS
 Javascript
